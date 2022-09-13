@@ -2,4 +2,3 @@ demo/** linguist-documentation=false
 demo/** linguist-vendored=false
 *.html linguist-detectable=false
 *.css linguist-detectable=false
-*.js linguist-detectable=false
